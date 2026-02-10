@@ -1,0 +1,3 @@
+# No external dependencies required -- uses Python 3.10+ standard library only.
+# Test dependencies (optional):
+pytest>=7.0
